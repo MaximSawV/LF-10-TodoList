@@ -3,3 +3,5 @@
 3. Repository Klonen
 4. Ersten Commit erstellen
 5. Projekt einfügen
+6. Nodejs installieren
+7. Node Packages installieren
