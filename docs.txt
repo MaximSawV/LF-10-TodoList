@@ -5,3 +5,4 @@
 5. Projekt einfügen
 6. Nodejs installieren
 7. Node Packages installieren
+8. gitignore erstellt um node_modules nicht zu pushen
