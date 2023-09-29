@@ -1,0 +1,4 @@
+1. Git installieren
+2. Github Repository erstellen
+3. Repository Klonen
+
