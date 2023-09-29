@@ -1,4 +1,5 @@
 1. Git installieren
 2. Github Repository erstellen
 3. Repository Klonen
-
+4. Ersten Commit erstellen
+5. Projekt einfügen
